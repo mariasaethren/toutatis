@@ -1,2 +1,7 @@
 from toutatis.core import *
-pip install toutatis
+
+cd /Users/mariammartinsen/Documents/GitHub/toutatis
+
+
+
+

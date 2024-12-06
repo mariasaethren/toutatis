@@ -169,3 +169,6 @@ def main():
                 print("No obfuscated phone found")
     print("-" * 24)
     print("Profile Picture        : " + infos["hd_profile_pic_url_info"]["url"])
+
+cd /Users/mariammartinsen/Documents/GitHub/toutatis
+toutatis -u mariasaethren -s 174393713%3Ar1a4fVm98exVn5%3A27%3AAYcQSxBV5n5OBa-eG9gWsDDEXxTrtfsoDIf7s555Wg
